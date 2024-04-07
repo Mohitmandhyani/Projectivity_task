@@ -32,3 +32,27 @@ To run this project, you will need to add the following environment variables to
 `ConnectionUrl` = Your MongoDB Connection String
 `JWT_SECREAT` = your secure secreat key
 
+
+# Getting Started with Create React App
+## Available Scripts
+
+For Frontend
+1. we have to cd client
+2. then
+In the project directory, you can run:
+
+### `npm run dev`
+
+Runs the app in the development mode.\
+Open [http://localhost:5173](http://localhost:5173) to view it in the browser.
+
+For Backend
+1. We have to cd ..
+2. then
+3. cd server
+In the project directory, you can run:
+
+### `npm run start`
+Runs the app in the development mode.
+
+
