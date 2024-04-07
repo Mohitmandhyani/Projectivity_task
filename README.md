@@ -33,7 +33,7 @@ To run this project, you will need to add the following environment variables to
 `JWT_SECREAT` = your secure secreat key
 
 
-# Getting Started with Create React App
+# Getting Started with Mern-chat App
 ## Available Scripts
 
 For Frontend
